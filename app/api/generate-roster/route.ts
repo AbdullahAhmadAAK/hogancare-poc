@@ -120,7 +120,18 @@ export async function POST(request: Request) {
       })),
     };
 
-    return NextResponse.json(clampAssignmentsToWorkday(result));
+    const finalResult = clampAssignmentsToWorkday(result);
+    console.log(
+      "[generate-roster] assignments:",
+      finalResult.assignments.map((a) => ({
+        patient: a.patientName,
+        provider: a.providerName,
+        score: a.score,
+        factorScores: a.factorScores,
+      }))
+    );
+
+    return NextResponse.json(finalResult);
   } catch (err) {
     const message = err instanceof Error ? err.message : "Unknown error calling OpenAI.";
     return NextResponse.json({ error: message }, { status: 502 });
