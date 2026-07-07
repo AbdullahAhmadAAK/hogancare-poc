@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pt1",
+    "name": "Margaret Chen",
+    "need": "Wound Care",
+    "requiredHoursPerWeek": 6,
+    "frequency": "3x/week",
+    "notes": "Post-surgical dressing changes",
+    "genderPreference": "No preference",
+    "preferredLanguage": "English",
+    "location": "North Zone"
+  },
+  {
+    "id": "pt2",
+    "name": "Robert Nguyen",
+    "need": "Personal Care",
+    "requiredHoursPerWeek": 10,
+    "frequency": "Daily",
+    "notes": "Assistance with daily living",
+    "genderPreference": "Male",
+    "preferredLanguage": "Vietnamese",
+    "location": "Central Zone"
+  },
+  {
+    "id": "pt3",
+    "name": "Elena Petrova",
+    "need": "Mobility & Rehab",
+    "requiredHoursPerWeek": 4,
+    "frequency": "2x/week",
+    "notes": "Post-stroke rehabilitation",
+    "genderPreference": "No preference",
+    "preferredLanguage": "English",
+    "location": "Central Zone"
+  },
+  {
+    "id": "pt4",
+    "name": "Ahmed Hassan",
+    "need": "Behavioural Support",
+    "requiredHoursPerWeek": 8,
+    "frequency": "4x/week",
+    "notes": "Autism spectrum, routine-sensitive",
+    "genderPreference": "Male",
+    "preferredLanguage": "Arabic",
+    "location": "West Zone"
+  },
+  {
+    "id": "pt5",
+    "name": "Grace O'Brien",
+    "need": "Medication Management",
+    "requiredHoursPerWeek": 5,
+    "frequency": "5x/week",
+    "notes": "Complex medication schedule",
+    "genderPreference": "Female",
+    "preferredLanguage": "English",
+    "location": "South Zone"
+  }
+]

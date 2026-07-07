@@ -1,0 +1,12 @@
+[
+  { "date": "2026-06-02", "provider": "Sarah Mitchell", "patient": "Margaret Chen", "shift": "AM" },
+  { "date": "2026-06-09", "provider": "Sarah Mitchell", "patient": "Margaret Chen", "shift": "AM" },
+  { "date": "2026-06-10", "provider": "James Okafor", "patient": "Robert Nguyen", "shift": "PM" },
+  { "date": "2026-06-11", "provider": "Linh Tran", "patient": "Elena Petrova", "shift": "AM" },
+  { "date": "2026-06-12", "provider": "David Kowalski", "patient": "Ahmed Hassan", "shift": "AM" },
+  { "date": "2026-06-15", "provider": "Amara Osei", "patient": "Grace O'Brien", "shift": "PM" },
+  { "date": "2026-06-16", "provider": "James Okafor", "patient": "Robert Nguyen", "shift": "PM" },
+  { "date": "2026-06-18", "provider": "David Kowalski", "patient": "Ahmed Hassan", "shift": "AM" },
+  { "date": "2026-06-19", "provider": "Linh Tran", "patient": "Elena Petrova", "shift": "PM" },
+  { "date": "2026-06-23", "provider": "Amara Osei", "patient": "Grace O'Brien", "shift": "PM" }
+]

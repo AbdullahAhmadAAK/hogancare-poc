@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "name": "Sarah Mitchell",
+    "role": "Registered Nurse",
+    "specialty": "Wound Care",
+    "availability": "Mon-Fri, AM",
+    "weeklyHours": 24,
+    "gender": "Female",
+    "languages": ["English"],
+    "location": "North Zone"
+  },
+  {
+    "id": "p2",
+    "name": "James Okafor",
+    "role": "Support Worker",
+    "specialty": "Personal Care",
+    "availability": "Mon-Sat, PM",
+    "weeklyHours": 30,
+    "gender": "Male",
+    "languages": ["English", "Yoruba"],
+    "location": "East Zone"
+  },
+  {
+    "id": "p3",
+    "name": "Linh Tran",
+    "role": "Physiotherapist",
+    "specialty": "Mobility & Rehab",
+    "availability": "Tue-Thu, AM/PM",
+    "weeklyHours": 18,
+    "gender": "Female",
+    "languages": ["English", "Vietnamese"],
+    "location": "Central Zone"
+  },
+  {
+    "id": "p4",
+    "name": "David Kowalski",
+    "role": "Support Worker",
+    "specialty": "Behavioural Support",
+    "availability": "Mon-Fri, AM",
+    "weeklyHours": 28,
+    "gender": "Male",
+    "languages": ["English", "Arabic"],
+    "location": "West Zone"
+  },
+  {
+    "id": "p5",
+    "name": "Amara Osei",
+    "role": "Registered Nurse",
+    "specialty": "Medication Management",
+    "availability": "Wed-Sun, PM",
+    "weeklyHours": 20,
+    "gender": "Female",
+    "languages": ["English"],
+    "location": "South Zone"
+  },
+  {
+    "id": "p6",
+    "name": "Tom Reyes",
+    "role": "Support Worker",
+    "specialty": "Community Access",
+    "availability": "Mon-Sat, AM/PM",
+    "weeklyHours": 32,
+    "gender": "Male",
+    "languages": ["English", "Tagalog"],
+    "location": "North Zone"
+  }
+]
